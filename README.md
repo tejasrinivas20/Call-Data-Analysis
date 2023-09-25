@@ -11,11 +11,11 @@ Once the call data is in CSV format, it can be analyzed using a variety of tools
 * What is the total duration of my calls in a day/week/month?
 * This data can also be used to make informed decisions about your mobile plan. For example, if you have taken a 3-month unlimited talktime plan and you talk way less than you pay, you might reconsider after viewing it. Of course the plan also include other things like x data per day and x SMS per day so definitely take the decision based on your needs.
 
-**Privacy**
+## Privacy
 
 The call data in this repository has been anonymized for privacy reasons. The contact numbers and names have been changed, but the rest of the data is the same.
 
-**How to use**
+## How to use
 
 To use this repository, follow these steps:
 
@@ -25,7 +25,7 @@ To use this repository, follow these steps:
 4. Run the notebook to convert the XML file to a CSV file.
 5. Open the CSV file in a data analysis tool of your choice and start analyzing your call data.
 
-**Further implementations**
+## Further implementations
 
 This repository can be extended to support additional features, such as:
 
@@ -34,6 +34,6 @@ This repository can be extended to support additional features, such as:
 * Predicting future call patterns.
 * Integrating with other data sources, such as your calendar or contact list, to provide more insights into your calling habits.
 
-**Contributions**
+## Contributions
 
 Contributions to this repository are welcome. Please feel free to submit pull requests with new features, bug fixes, or documentation improvements.
