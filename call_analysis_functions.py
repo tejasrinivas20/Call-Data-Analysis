@@ -66,19 +66,15 @@ def xml_to_csv(xml_file_path: str, csv_file_path: str) -> None:
     Returns:
     None
     """
-    # Parse the XML file and get the root element
     tree = ET.parse(xml_file_path)
     root = tree.getroot()
 
-    # Open the CSV file and create a CSV writer object
     csv_file = open(csv_file_path, 'w', newline='', encoding='utf-8')
     csv_writer = csv.writer(csv_file)
 
-    # Write the header row to the CSV file
     csv_writer.writerow(["Phone_no", "Duration", "Date_spec",
                         "Type", "Date&Time", "Contact_Name"])
 
-    # Loop through each call element in the XML file and extract the required data
     for call in root.findall('.//call'):
         phone_no = call.get('number', '')
         duration = call.get('duration', '')
@@ -87,17 +83,15 @@ def xml_to_csv(xml_file_path: str, csv_file_path: str) -> None:
         readable_date = call.get('readable_date', '')
         contact_name = call.get('contact_name', '')
 
-        # Write the selected data to the CSV file
         csv_writer.writerow([phone_no, duration, date_spec,
                             call_type, readable_date, contact_name])
 
-    # Close the CSV file
     csv_file.close()
 
 
 def transform_name(name):
     """
-    Transforms a full name into a first name and first letter of secong name format.
+    Transforms a full name into a first name and first letter of second name format.
 
     Args:
         name (str): The full name to transform.
