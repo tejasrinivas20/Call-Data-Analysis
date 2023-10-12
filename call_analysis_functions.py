@@ -18,11 +18,8 @@ def generateRandomNumber(nReqPhnNum):
     """
     arr = []
     for _ in range(nReqPhnNum):
-        # Having first two digits as 91
         number = "91"
-        # Next 3 digits can be between 7 to 9
         number += str(random.randint(7, 9))
-        # Rest of the 8 digits can be between 0 to 9 but repeating digits should not be more than 4
 
         for _ in range(9):
             digit = str(random.randint(0, 9))
