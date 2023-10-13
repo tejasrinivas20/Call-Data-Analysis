@@ -7,22 +7,22 @@ Once the call data is in CSV format, it can be analyzed using a variety of tools
 ![Image of Calls made by month](./images/calls_made_by_month.png)<br>
 June month has the highest number of calls: **544 calls**
 * Top 10 callers by Frequency of Calls.
-![Image of Top 10 Callers by Frequency of Calls](./images/top_10_callers_by_freq.png)
+![Image of Top 10 Callers by Frequency of Calls](./images/top_10_callers_by_freq.png)<br>
 Mom (understandably) is the highest caller: **604 calls**
 * Top 10 Callers by Duration
-![Image of Top 10 Callers by Duration](./images/top_10_callers_by_duration.png)
+![Image of Top 10 Callers by Duration](./images/top_10_callers_by_duration.png)<br>
 Sashank D is the most I've wasted my time on: **81513 seconds**
 * Time of the day with most calls.
-![Image of Time of Day with Most Calls](./images/time_of_day_with_most_calls.png)
+![Image of Time of Day with Most Calls](./images/time_of_day_with_most_calls.png)<br>
 I've spent most of my Noon talking: **605 calls**
 * Average Duration of Calls.
-![Average Duration of Calls](./images/avg_dur_of_calls.png)
+![Average Duration of Calls](./images/avg_dur_of_calls.png)<br>
 I've spent most of my Noon talking: **605 calls**
 * Day of the Week with Most Calls
-![Image of Day of the Week with Most Calls](./images/day_of_the_week_with_most_callspng.png)
+![Image of Day of the Week with Most Calls](./images/day_of_the_week_with_most_callspng.png)<br>
 Monday (understandably, since I have to beg my friends to attend college) is the day I talk the most: **483 calls**
 * Distribution of Calls by Day of the Week.
-![Image of Distribution of Calls by Day of the Week](./images/distribution_of_calls_by_day_of_the_week.png)
+![Image of Distribution of Calls by Day of the Week](./images/distribution_of_calls_by_day_of_the_week.png)<br>
 * This data can also be used to make informed decisions about your mobile plan. For example, if you have taken a 3-month unlimited talktime plan and you talk way less than you pay, you might reconsider after viewing it. Of course the plan also include other things like x data per day and x SMS per day so definitely take the decision based on your needs.
 * For this qustion, I currently don't know the charge per minute (rupee/min) for my carrier. I've contacted them, so I'll update it when I get a reply from them.
 
