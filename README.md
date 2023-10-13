@@ -17,7 +17,7 @@ Sashank D is the most I've wasted my time on: **81513 seconds**
 I've spent most of my Noon talking: **605 calls**
 * Average Duration of Calls.
 ![Average Duration of Calls](./images/avg_dur_of_calls.png)<br>
-I've spent most of my Noon talking: **605 calls**
+My average talktime is **108 seconds** :)
 * Day of the Week with Most Calls
 ![Image of Day of the Week with Most Calls](./images/day_of_the_week_with_most_callspng.png)<br>
 Monday (understandably, since I have to beg my friends to attend college) is the day I talk the most: **483 calls**
