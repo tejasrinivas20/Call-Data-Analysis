@@ -21,7 +21,7 @@ My average talktime is **108 seconds** :)
 * Day of the Week with Most Calls
 ![Image of Day of the Week with Most Calls](./images/day_of_the_week_with_most_callspng.png)<br>
 Monday (understandably, since I have to beg my friends to attend college) is the day I talk the most: **483 calls**
-* Distribution of Calls by Day of the Week.
+* Distribution of Calls by Day of the Week.<br>
 ![Image of Distribution of Calls by Day of the Week](./images/distribution_of_calls_by_day_of_the_week.png)<br>
 * This data can also be used to make informed decisions about your mobile plan. For example, if you have taken a 3-month unlimited talktime plan and you talk way less than you pay, you might reconsider after viewing it. Of course the plan also include other things like x data per day and x SMS per day so definitely take the decision based on your needs.
 * For this qustion, I currently don't know the charge per minute (rupee/min) for my carrier. I've contacted them, so I'll update it when I get a reply from them.
