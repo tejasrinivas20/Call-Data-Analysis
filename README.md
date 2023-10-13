@@ -4,7 +4,7 @@ This repository contains a collection of scripts and notebooks for analyzing cal
 Once the call data is in CSV format, it can be analyzed using a variety of tools and techniques. For example, you can use the data to answer the following questions:
 
 * Number of calls made by month
-![Image of Calls made by month](./images/calls_made_by_month.png)
+![Image of Calls made by month](./images/calls_made_by_month.png)<br>
 June month has the highest number of calls: **544 calls**
 * Top 10 callers by Frequency of Calls.
 ![Image of Top 10 Callers by Frequency of Calls](./images/top_10_callers_by_freq.png)
