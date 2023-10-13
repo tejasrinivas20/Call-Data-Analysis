@@ -1,5 +1,4 @@
 # Call Data Analysis
-## It's a work in progress :)
 This repository contains a collection of scripts and notebooks for analyzing call data. The call data is collected from a phone using an app named [SMS Backup and Restore](https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestore) and exported to an XML file. The XML file can be converted to a CSV file using call_analysis_functions.py file by 'xml_to_csv' function in it.
 
 Once the call data is in CSV format, it can be analyzed using a variety of tools and techniques. For example, you can use the data to answer the following questions:
