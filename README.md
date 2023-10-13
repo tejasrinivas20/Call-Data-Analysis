@@ -5,7 +5,7 @@ This repository contains a collection of scripts and notebooks for analyzing cal
 Once the call data is in CSV format, it can be analyzed using a variety of tools and techniques. For example, you can use the data to answer the following questions:
 
 * Number of calls made by month
-![Image of Calls made by month](../images/calls_made_by_month)
+![Image of Calls made by month](./images/calls_made_by_month)
 * At which time of day do I talk the most?
 * Who do I call the most?
 * How long do my calls typically last?
