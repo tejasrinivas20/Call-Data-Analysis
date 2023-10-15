@@ -39,7 +39,7 @@ Once the call data is in CSV format, it can be analyzed using a variety of tools
 - This data can also be used to make informed decisions about your mobile plan. For example, if you have purchased an _**x**_ amount unlimited talktime plan and you talk way less than you pay, you might reconsider after viewing it. Of course the plan also include other things like _**x**_ amount of data per day and _**x**_ SMS per day so definitely take the decision based on your needs.
   - For this question, I currently don't know the charge per minute (rupee/min) for my carrier. I've contacted them, so I'll update it when I get a reply from them.
 
-## How to use
+# How to use
 
 To use this repository, follow these steps:
 
@@ -53,7 +53,7 @@ To use this repository, follow these steps:
 6. Convert the XML file to CSV file using given function.
 7. Run the notebook and see your data.
 
-## Further implementations
+# Further implementations
 
 This repository can be extended to support additional features, such as:
 
@@ -61,6 +61,6 @@ This repository can be extended to support additional features, such as:
 - Predicting future call patterns.
 - Integrating with other data sources, such as your calendar or contact list, to provide more insights into your calling habits.
 
-## Contributions
+# Contributions
 
 Contributions to this repository are welcome. Please feel free to submit pull requests with new features, bug fixes, or documentation improvements.
